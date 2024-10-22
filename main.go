@@ -1,9 +1,11 @@
 package main
 
 import (
+	"fmt"
+
 	"github.com/SulaimanSayyed21/go-lib-examp/modc"
 )
 
 func main() {
-	fmt.println(modc.SayHelloC())
+	fmt.Println(modc.SayHelloC())
 }
