@@ -1,0 +1,20 @@
+#Node.js
+node.modules/
+package-lock.json
+
+# Go Binaries
+bin/
+*.exe
+*.o
+*.out
+
+# Miscellanious
+
+.DS_Store
+
+#
+go.work
+go.work.sum
+
+#
+.env
